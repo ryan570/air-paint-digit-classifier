@@ -1,0 +1,5 @@
+logs/*
+LeNet5.model/*
+.vscode/*
+Scripts/__pycache__/*
+venv/*
